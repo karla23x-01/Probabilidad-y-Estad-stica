@@ -1,2 +1,2 @@
-# Probabilidad-y-Estad-stica
+# Probabilidad-y-Estadistica
 Programas de Probabilidad y Estadística
